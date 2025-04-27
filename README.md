@@ -1,4 +1,5 @@
 📽️ Movie Genre Classification
+
 🧩 Project Overview
   This project focuses on predicting the genres of movies based on their plot descriptions.
   The task is framed as a multi-label classification problem since a single movie can belong to multiple genres (like "Action", "Comedy", "Drama", etc.).
