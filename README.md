@@ -37,7 +37,7 @@ ________________________________________
 'Weighted Average Recall': '53.00%', 
 'Weighted Average F1-Score': '51.00%' 
 ________________________________________
-🚀 How We Reached 53% Accuracy
+🚀 How I Reached 53% Accuracy
 
 •	Started simple: basic TF-IDF + MultiLabelBinarizer approach → 42%.
 •	Introduced deep learning: using Scikeras with a properly set output layer and Binary Cross Entropy loss → 52%.
