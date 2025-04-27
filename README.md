@@ -22,7 +22,7 @@
     *	seaborn
 
   Dataset
-    The model uses a dataset containing data of over 5000 movies
+    The model uses a dataset containing data of over 50000 movies
     •	Movie titles
     •	Genre labels (27 categories)
     •	Plot descriptions
